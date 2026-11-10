@@ -1,0 +1,6 @@
+{
+  "name": "Global Explorers — Travel Agency Ireland",
+  "description": "Discover Ireland with Global Explorers. Curated travel packages exploring historic Irish cities and breathtaking natural landscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
